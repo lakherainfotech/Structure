@@ -1,1 +1,1 @@
-This is a c++ program which is uses strucutres, vectors, conversion etc for a library managment system
+This is a c++ program which is uses strucutres, vectors, conversion etc for a library managment system. It uses file for storing the data and all the data is updated in the file after the ending of program. Regex is also used in the program. 
